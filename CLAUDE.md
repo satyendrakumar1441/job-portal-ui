@@ -150,5 +150,5 @@ Three roles with route protection via `ProtectedRoute` component:
 Flat config (`eslint.config.js`). The `no-unused-vars` rule ignores variables starting with uppercase or underscore (`varsIgnorePattern: '^[A-Z_]'`).
 
 ### Comments
-Put comments when it makes sense or the code added is complext.
+Put comments when it makes sense or the code added is complex.
 
